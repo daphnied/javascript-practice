@@ -1,3 +1,5 @@
+//use else if when comparing//
+
 var musicians = 5;
 if (musicians <= 0) {
     console.log("not a group");
