@@ -13,3 +13,9 @@ if (checkBalance === false){
 }else if(checkBalance === true && isActive === true && balance <0){
     console.log ("Your balance is negative. Please contact bank.");
 }
+
+/* balance - the account balance
+isActive - if account is active
+checkBalance - if you want to check balance
+
+If checkBalance equals true and isActive equals false, then Your account is no longer active. should be printed to the console. */
